@@ -1,0 +1,7 @@
+<body>
+	<button type="button class="btn btn-primary">
+		Test <span class="badge badge-light">24</span>
+
+	<div>Change</div>
+	</button>
+</body>
